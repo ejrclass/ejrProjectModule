@@ -1,0 +1,5 @@
+#ignore visual studio code 
+.vscode
+#ignore swap files
+*.swp
+
